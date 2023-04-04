@@ -1,2 +1,3 @@
-# example-git-repository
-example-git-repository
+# Example Git Repository
+
+This is an example repository to see how GitGui works.
